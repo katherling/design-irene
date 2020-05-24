@@ -41,7 +41,7 @@
 
 ### Непосредственно в GitHub репоситории
 
-- в браузере переидти на страницу *https://github.com/katherling/irene-design/*
+- в браузере переидти на страницу *https://github.com/katherling/irene-design/tree/gh-pages*
 - войти в GitHub аккаунт.
 - выбрать нужный файл
 - нажать ***Edit*** (карандаш)
